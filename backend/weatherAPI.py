@@ -10,7 +10,7 @@ app = Flask(__name__)
 CORS(app)
 
 # connect to Redis
-redis_connection = redis.Redis(host='localhost', port=6379, decode_responses=True)
+redis_connection = os.getenv('REDIS_CONNECTION_STRING')
 
 @app.route('/weather', methods=['GET'])
 def get_weather():
