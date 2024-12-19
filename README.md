@@ -57,3 +57,8 @@ This fufills the project requirements for roadmap.sh project 'Weather API'
    ```
 
 6. Access the Weather API UI at: `http://localhost:3000`
+
+# What I learned
+1) Interacting with APIs
+2) Building applications using the Flask framework
+3) Utilizing Redis for database management and caching
