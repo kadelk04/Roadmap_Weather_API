@@ -25,6 +25,7 @@ function App() {
     return (
         <div style={{ textAlign: 'center', marginTop: '50px' }}>
             <h1>Weather App</h1>
+            <h3>Enter a Location</h3>
             <input 
                 type="text" 
                 placeholder="Enter city" 
