@@ -1,6 +1,6 @@
 # Roadmap_Weather_API
 
-https://roadmap.sh/projects/weather-api-wrapper-service
+# https://roadmap.sh/projects/weather-api-wrapper-service
 
 This repository provides a Weather API built with Python, Flask, and OpenWeatherMap. 
 This fufills the project requirements for roadmap.sh project 'Weather API'
